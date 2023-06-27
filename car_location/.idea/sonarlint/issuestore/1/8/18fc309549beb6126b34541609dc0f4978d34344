@@ -1,0 +1,22 @@
+
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8€½ª1
+H
+java:S1068"&Remove this unused "id" private field.(Æí¶áşÿÿÿÿ8‰ë¼ª1
+F
+java:S1068	")Remove this unused "plate" private field.(¦Áæù8Šë¼ª1
+K
+java:S1068
+")Remove this unused "model" private field.(³—öûÿÿÿÿ8‹ë¼ª1
+K
+java:S1068")Remove this unused "brand" private field.(Şü‡şÿÿÿÿ8Œë¼ª1
+F
+java:S1068")Remove this unused "color" private field.(È„…¦8ë¼ª1
+S
+java:S1068"1Remove this unused "ageProduction" private field.(„Ç¥†ûÿÿÿÿ8ë¼ª1
+N
+java:S1068",Remove this unused "ageModel" private field.(‹ÒÕ¢ùÿÿÿÿ8‘ë¼ª1
+H
+java:S1068"+Remove this unused "mileage" private field.(¿Ùì¦8‘ë¼ª1
+J
+java:S1068"-Remove this unused "locations" private field.(®ãò8’ë¼ª1
