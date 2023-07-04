@@ -1,0 +1,21 @@
+
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Û½¨úÿÿÿÿ8·í“Í1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Õ ìüÿÿÿÿ8¸í“Í1
+7
+java:S1220""Move this file to a named package.8¹í“Í1
+j
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(ìÕîÀıÿÿÿÿ8¹í“Í1
+e
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(…ä8¹í“Í1
+j
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(Å““Œúÿÿÿÿ8¹í“Í1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œıƒšıÿÿÿÿ8Îí“Í1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œœˆ‘8Ïí“Í1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ïäåë8Ïí“Í1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×§¾Ö8Ğí“Í1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œå¦¼8Ñí“Í1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’Ù…É8Ñí“Í1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§–ğ’øÿÿÿÿ8Òí“Í1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(á¡®8Òí“Í1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š¶Ïøÿÿÿÿ8±²•Í1
