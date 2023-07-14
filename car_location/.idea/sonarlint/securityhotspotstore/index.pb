@@ -5,7 +5,3 @@ x
 Hsrc/main/java/br/com/andersonchoren/car_location/model/VehicleModel.java,1\8\18fc309549beb6126b34541609dc0f4978d34344
 y
 Isrc/main/java/br/com/andersonchoren/car_location/model/EmployeeModel.java,f\1\f1e26bd9165cb0913a1ebc7a880036ce80bf0a88
-w
-Gsrc/main/java/br/com/andersonchoren/car_location/model/ClientModel.java,e\6\e6ca82324c3ec5a95bfa795326310ab01fcb001e
-o
-?src/main/java/br/com/andersonchoren/car_location/view/Main.java,3\1\31f3a9e894fb54003bb7a6f1eeb646abb08a0b7d
